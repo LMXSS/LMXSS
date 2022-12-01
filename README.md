@@ -1,6 +1,9 @@
 ### Olá, Seja Bem-Vindo(a). 
 -💻Desenvolvedor Full Stack.<br>
--🎮Desenvolvedor de Jogos Digitais (Nave).
+-🎮Desenvolvedor de Jogos Digitais <a href="https://oifuturo.org.br/programas/nave/">(NAVE)</a><br>
+-📚 Análise e Desenvolvimento de Sistemas ( Jan 2023 - Jun 2025)<br>
+-💻 C# WEBDEVELOPER - FORMAÇÃO FULLSTACK - <a href="https://www.cotiinformatica.com.br/curso/web-developer-csharp-net">COTI INFOMÁTICA</a><BR>
+-💻 C# AVANÇADO - FORMAÇÃO ARQUITETO - <a href="https://www.cotiinformatica.com.br/curso/csharp-net-avancado">COTI INFOMÁTICA</a>
 
 <div>
   <a href="https://github.com/LMXSS">
@@ -12,7 +15,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lamas-csharp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Lamas-dotnet" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />    <img align="center" alt="Lamas-dotnet-core" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Lamas-dotnet" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />      <img align="center" alt="Lamas-dotnet-core" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Lamas-angular" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Lamas-unity" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
  <img align="center" alt="Lamas-bootstrap" height="40" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
