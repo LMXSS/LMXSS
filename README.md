@@ -1,5 +1,5 @@
 ### Olá, Seja Bem-Vindo(a). 
--💻Desenvolvedor Full Stack.<br>
+-💻.NET DEVELOPER.<br>
 -🎮Desenvolvedor de Jogos Digitais <a href="https://oifuturo.org.br/programas/nave/">(NAVE)</a><br>
 -📚 Análise e Desenvolvimento de Sistemas ( Jan 2023 - Jun 2025)<br>
 -💻 C# WEBDEVELOPER - FORMAÇÃO FULLSTACK - <a href="https://www.cotiinformatica.com.br/curso/web-developer-csharp-net">COTI INFOMÁTICA</a><BR>
