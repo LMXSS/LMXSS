@@ -15,11 +15,11 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Lamas-csharp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Lamas-JS" height="40" width="60" src=!https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt="Lamas-JS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Lamas-react" height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="Lamas-angular" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="center" alt="Lamas-bootstrap" height="40" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" alt="Lamas-Docker" height="40" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Lamas-Docker" height="40" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
 <br>
